@@ -1,0 +1,2 @@
+#!/bin/bash
+find -type d exec chmod ugo+x /home/0x01-shell_permisions/*/
